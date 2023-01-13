@@ -1,11 +1,11 @@
 {
     "nodes":[
-    {"node":0,"name":"Female"},
-    {"node":1,"name":"Male"},
-    {"node":2,"name":"Adult"},
-    {"node":3,"name":"Child"},
-    {"node":4,"name":"Class 3"},
-    {"node":5,"name":"Class 1"}
+    {"node":0,"name":"Perished"},
+    {"node":1,"name":"Survived"},
+    {"node":2,"name":"Female"},
+    {"node":3,"name":"Male"},
+    {"node":4,"name":"Adult"},
+    {"node":5,"name":"Child"}
     ],
     "links":[
     {"source":0,"target":2,"value":131},
