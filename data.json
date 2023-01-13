@@ -7,9 +7,7 @@
     {"node":4,"name":"Adult"},
     {"node":5,"name":"Child"},
     {"node":6,"name":"Crew"},
-    {"node":7,"name":"Class 3"},
-    {"node":8,"name":"Class 2"},
-    {"node":9,"name":"Class 1"}
+    {"node":7,"name":"Class 3"}
     ],
     "links":[
     {"source":0,"target":2,"value":131},
@@ -20,13 +18,9 @@
     {"source":2,"target":5,"value":123},
     {"source":3,"target":4,"value":120},
     {"source":3,"target":5,"value":127},
-    {"source":4,"target":6,"value":52},
-    {"source":4,"target":7,"value":76},
-    {"source":4,"target":8,"value":58},
-    {"source":4,"target":9,"value":64},
-    {"source":5,"target":6,"value":44},
-    {"source":5,"target":7,"value":74},
-    {"source":5,"target":8,"value":73},
-    {"source":5,"target":9,"value":59}
+    {"source":4,"target":6,"value":130},
+    {"source":4,"target":7,"value":123},
+    {"source":5,"target":6,"value":120},
+    {"source":5,"target":7,"value":127}
     ]
 }
