@@ -1,18 +1,30 @@
 {
     "nodes":[
-    {"node":0,"name":"node0"},
-    {"node":1,"name":"node1"},
-    {"node":2,"name":"node2"},
-    {"node":3,"name":"node3"},
-    {"node":4,"name":"node4"}
+    {"node":0,"name":"Female"},
+    {"node":1,"name":"Male"},
+    {"node":2,"name":"Adult"},
+    {"node":3,"name":"Child"},
+    {"node":4,"name":"Class 3"},
+    {"node":5,"name":"Class 1"},
+    {"node":6,"name":"Class 2"},
+    {"node":7,"name":"Crew"}
     ],
     "links":[
-    {"source":0,"target":2,"value":2},
-    {"source":1,"target":2,"value":2},
-    {"source":1,"target":3,"value":2},
-    {"source":0,"target":4,"value":2},
-    {"source":2,"target":3,"value":2},
-    {"source":2,"target":4,"value":2},
-    {"source":3,"target":4,"value":4}
+    {"source":0,"target":2,"value":131},
+    {"source":0,"target":3,"value":136},
+    {"source":1,"target":2,"value":122},
+    {"source":1,"target":3,"value":111},
+    {"source":2,"target":4,"value":130},
+    {"source":2,"target":5,"value":123},
+    {"source":3,"target":4,"value":120},
+    {"source":3,"target":5,"value":127},
+    {"source":4,"target":6,"value":52},
+    {"source":4,"target":7,"value":76},
+    {"source":4,"target":8,"value":58},
+    {"source":4,"target":9,"value":64},
+    {"source":5,"target":6,"value":44},
+    {"source":5,"target":7,"value":74},
+    {"source":5,"target":8,"value":73},
+    {"source":5,"target":9,"value":59}
     ]
 }
